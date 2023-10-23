@@ -1,0 +1,11 @@
+{
+  "name": "pwsills",
+  "version": "1.0.0",
+  "description": "assignment given by pw skills",
+  "main": "index.js",
+  "scripts": {
+    "test": "gh"
+  },
+  "author": "indrajeet",
+  "license": "ISC"
+}
